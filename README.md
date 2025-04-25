@@ -28,3 +28,9 @@ Clone the repository to your local machine:
 ```bash
 git https://github.com/Sonali-Singh31/Portfolio.git
 cd Portfolio
+```
+
+### 1. Deployment
+
+```bash
+Link https://sonali-singh-portfolio.vercel.app/
